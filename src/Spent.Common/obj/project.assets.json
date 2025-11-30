@@ -543,11 +543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/trinity/repos/Spent/src/Spent.Common/Spent.Common.csproj",
+      "projectUniqueName": "/home/trinity/repos/Spent/Spent/src/Spent.Common/Spent.Common.csproj",
       "projectName": "Spent.Common",
-      "projectPath": "/home/trinity/repos/Spent/src/Spent.Common/Spent.Common.csproj",
+      "projectPath": "/home/trinity/repos/Spent/Spent/src/Spent.Common/Spent.Common.csproj",
       "packagesPath": "/home/trinity/.nuget/packages/",
-      "outputPath": "/home/trinity/repos/Spent/src/Spent.Common/obj/",
+      "outputPath": "/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/trinity/.nuget/NuGet/NuGet.Config"

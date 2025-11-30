@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AoAEIt1ORNM=",
+  "dgSpecHash": "WaJpxosbpKA=",
   "success": true,
-  "projectFilePath": "/home/trinity/repos/Spent/src/AccountService/AccountService.csproj",
+  "projectFilePath": "/home/trinity/repos/Spent/Spent/src/AccountService/AccountService.csproj",
   "expectedPackageFiles": [
     "/home/trinity/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-rc.1.25451.107/microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/home/trinity/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"

@@ -1,0 +1,6 @@
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.csproj.AssemblyReference.cache
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.AssemblyInfoInputs.cache
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.AssemblyInfo.cs
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.csproj.CoreCompileInputs.cache
+/home/trinity/repos/Spent/Spent/src/Spent.Common/obj/Debug/net9.0/Spent.Common.sourcelink.json

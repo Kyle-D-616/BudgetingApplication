@@ -1,0 +1,6 @@
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.GeneratedMSBuildEditorConfig.editorconfig
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.AssemblyInfoInputs.cache
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.AssemblyInfo.cs
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.csproj.CoreCompileInputs.cache
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.MvcApplicationPartsAssemblyInfo.cache
+/home/trinity/repos/Spent/Spent/src/TransactionService/obj/Debug/net9.0/TransactionService.sourcelink.json

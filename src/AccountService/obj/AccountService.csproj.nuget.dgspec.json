@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/trinity/repos/Spent/src/AccountService/AccountService.csproj": {}
+    "/home/trinity/repos/Spent/Spent/src/AccountService/AccountService.csproj": {}
   },
   "projects": {
-    "/home/trinity/repos/Spent/src/AccountService/AccountService.csproj": {
+    "/home/trinity/repos/Spent/Spent/src/AccountService/AccountService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/trinity/repos/Spent/src/AccountService/AccountService.csproj",
+        "projectUniqueName": "/home/trinity/repos/Spent/Spent/src/AccountService/AccountService.csproj",
         "projectName": "AccountService",
-        "projectPath": "/home/trinity/repos/Spent/src/AccountService/AccountService.csproj",
+        "projectPath": "/home/trinity/repos/Spent/Spent/src/AccountService/AccountService.csproj",
         "packagesPath": "/home/trinity/.nuget/packages/",
-        "outputPath": "/home/trinity/repos/Spent/src/AccountService/obj/",
+        "outputPath": "/home/trinity/repos/Spent/Spent/src/AccountService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/trinity/.nuget/NuGet/NuGet.Config"

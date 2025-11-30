@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSAYDIRG1r4=",
+  "dgSpecHash": "vNQd3C4T80U=",
   "success": true,
-  "projectFilePath": "/home/trinity/repos/Spent/src/Spent.Common/Spent.Common.csproj",
+  "projectFilePath": "/home/trinity/repos/Spent/Spent/src/Spent.Common/Spent.Common.csproj",
   "expectedPackageFiles": [
     "/home/trinity/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "/home/trinity/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

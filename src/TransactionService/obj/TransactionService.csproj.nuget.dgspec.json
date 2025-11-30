@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/trinity/repos/Spent/src/TransactionService/TransactionService.csproj": {}
+    "/home/trinity/repos/Spent/Spent/src/TransactionService/TransactionService.csproj": {}
   },
   "projects": {
-    "/home/trinity/repos/Spent/src/TransactionService/TransactionService.csproj": {
+    "/home/trinity/repos/Spent/Spent/src/TransactionService/TransactionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/trinity/repos/Spent/src/TransactionService/TransactionService.csproj",
+        "projectUniqueName": "/home/trinity/repos/Spent/Spent/src/TransactionService/TransactionService.csproj",
         "projectName": "TransactionService",
-        "projectPath": "/home/trinity/repos/Spent/src/TransactionService/TransactionService.csproj",
+        "projectPath": "/home/trinity/repos/Spent/Spent/src/TransactionService/TransactionService.csproj",
         "packagesPath": "/home/trinity/.nuget/packages/",
-        "outputPath": "/home/trinity/repos/Spent/src/TransactionService/obj/",
+        "outputPath": "/home/trinity/repos/Spent/Spent/src/TransactionService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/trinity/.nuget/NuGet/NuGet.Config"
